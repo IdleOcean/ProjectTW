@@ -4,7 +4,7 @@
 Get order > Craft sword > get money > buy more materials 
 
 ## Progression:
-Buy Better equipment \n
+Buy Better equipment
 Buying store location/ expanding smithy
 Research
 Alloying, types of swords, poison-support, traps ect
