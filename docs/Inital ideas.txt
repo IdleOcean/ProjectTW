@@ -10,5 +10,10 @@ Evolve traits to survive different areas
 Rain world inspired
 2D platformer
 Singleplayer
+Possibly eat bosses to gain their traits
 
-3.
+3. Blacksmith game
+Recetear-like
+events that change inventory and access
+voxel based crafting
+factions alignments reputation
