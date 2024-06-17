@@ -1,4 +1,4 @@
-# ProjectTW
+Name: 
 
 ## Gameplay loop:
 Get order > Craft sword > get money > buy more materials 
