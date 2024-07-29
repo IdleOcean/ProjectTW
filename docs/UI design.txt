@@ -25,3 +25,32 @@ https://www.gamedevmarket.net/asset/elegandhandwriting-font-207
 https://www.gamedevmarket.net/asset/handwritten-font-jean-lambert
 
 3.https://www.gamedevmarket.net/asset/font
+
+-----------------------------------
+Buttons/panels we need:
+
+Date and time
+Calendar
+World map
+Orders
+Event log/journal
+Money
+Reputation
+Storefront tab
+Research tab
+Inventory
+Market
+---------------------
+Main UI:
+Labels/dynamic buttons:
+Money
+Date/time (button will open up the full calendar)
+
+buttons:
+Inventory button
+Status (Orders/Reputation/factions tabs)
+World map button
+Log (event log/ journal/ design storage)
+Market button (connected to inventory via tabs?)
+Movement (Storefront tab, research tab, mines tab, visit/diplomacy tab)
+Management tabs (employee/storefront/profit/graphs)
